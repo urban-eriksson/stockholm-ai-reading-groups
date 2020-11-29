@@ -6,5 +6,13 @@ Kellyn F Arnold, Vinny Davies, Marc de Kamps, Peter W G Tennant, John Mbotwa, Ma
 
 
 <p align="center"> 
-<img src="https://github.com/urban-eriksson/RRT-RRTstar/blob/master/images/RRT_star.PNG">
+<img src="https://github.com/urban-eriksson/stockholm-ai-reading-groups/blob/main/GLM/images/image1.png">
+</p>
+
+<p align="center"> 
+<img src="https://github.com/urban-eriksson/stockholm-ai-reading-groups/blob/main/GLM/images/image2.PNG">
+</p>
+
+<p align="center"> 
+<img src="https://github.com/urban-eriksson/stockholm-ai-reading-groups/blob/main/GLM/images/image3.PNG">
 </p>
